@@ -1,6 +1,7 @@
 # hello-world
 
-COM-109....
+My name is Breanna Loughrey.
 
+I was born in 2005.
 
-university repo!
+My favourite animal is a cheetah.
